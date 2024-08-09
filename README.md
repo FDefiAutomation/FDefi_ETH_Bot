@@ -11,8 +11,10 @@ It is best if you watch this youtube video where it is explained IN DETAIL how t
 - Install node.js on your computer: version 22
 - Verify node.js is installed by typing in the command line: "node -v" you should see "v22.2.0" (or greater)
 - Unzip the sources and navigate with the command line (terminal) in the folder
-- Write: "npm install" wait 1-2 minutes until the command is ready then write "npm run start"
-- Open a browser and navigate to the location where it is running eg: http://localhost:3000
+- Install quasar (the framework that the bot is build in): npm i -g @quasar/cli
+- Write: "quasar -v" it should say something like: @quasar/cli v2.4.1. 
+- Write: "quasar serve"
+- Open a browser and navigate to the location where it is running eg: Listening at........ http://127.0.0.1:4000
 
 
 ### Info
