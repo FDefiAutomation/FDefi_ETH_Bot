@@ -20,6 +20,7 @@ It is best if you watch this youtube video where it is explained IN DETAIL how t
 ### Info
 
 App Checksum (sha256): 8db096a523bd5df504303994d3ceb3595226cd1d57b4c3fa8305466837e9ab21  app_0.0.7.zip
+
 Sources Checksum (sha256): 17b7e80d7d1be8a8caf445b294694ce7c4b384eb1adba0f066f55cd569f90d6f  sources_version_007.zip
 
 
