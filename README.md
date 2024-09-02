@@ -3,9 +3,9 @@
 <img src="https://github.com/FDefiAutomation/FDefi_ETH_Bot/blob/master/static/fdefi1.png"  width="800" alt="fdefi eth bot screenshot 1"/>
 <img src="https://github.com/FDefiAutomation/FDefi_ETH_Bot/blob/master/static/fdefi2.png"  width="800" alt="fdefi eth bot screenshot 2"/>
 
-Latest Version: 0.0.8
+Latest Version: 0.0.9
 
-https://github.com/FDefiAutomation/FDefi_ETH_Bot/blob/master/versions/app_0.0.8.zip
+https://github.com/FDefiAutomation/FDefi_ETH_Bot/blob/master/versions/app_0.0.9.zip
 
 ### How to install:
 
