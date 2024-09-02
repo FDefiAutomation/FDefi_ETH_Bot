@@ -21,6 +21,17 @@ It is best if you watch this youtube video where it is explained IN DETAIL how t
 
 ### Version History
 
+Version 0.0.9:
+
+- removed some useless features. added terms & conditions & disclaimer.
+- minor cosmetic changes
+
+App Checksum (sha256):
+
+40f54649acb9f4146e1b9ce3f0cf2f7b0521da8ca64c8d7754b675ebae2affcd sources_version_0.0.9.zip
+
+598aac811cd5321a9210503f4ef955d25ef8bc4f3dd20c3bab9264ecac021aed app_0.0.9.zip
+
 Version 0.0.8:
 
 - fixed the RPC URL not working when checking for token liquidity
